@@ -29,7 +29,7 @@ void insertion_sort(char A[],int n){
 void main(){
 	char data[10];
 	int n;
-	cout<<"Banyak data : ";
+	cout<<"Banyaknya data yang ada : ";
 	cin>>n;
 	baca_data(data,n);
 	cetak_data(data,n);
